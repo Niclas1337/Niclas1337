@@ -1,8 +1,8 @@
 ### <div align="center">Hi there 👋</div>  
   
-
-- 🌱 I’m currently learning `NodeJS`, `Dart(Flutter)` and `Python`  
-  
+- 📱 I'm mainly a mobile developer working with Flutter
+- 🌱 I’m currently working with `NodeJS`, `Dart(Flutter)`, `Go` and `Python`
+- 🔍 I'm currently learning reverse engineering of mobile applications on Android / iOS
 
 <br/>  
 
